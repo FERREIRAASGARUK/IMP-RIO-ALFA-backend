@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "title": "Notebook Positivo Motion Q464B Intel Atom Quad core 4GB 64GB SSD + 64GB Nuvem 14\" W10 Vermelho",
+      "price": 1499,
+      "imageUrl": "https://images-americanas.b2w.io/produtos/01/00/img/1506964/1/1506964106_1GG.jpg",
+      "url": "https://www.americanas.com.br/produto/1506963998?pfm_carac=quem%20viu%20este%20produto%2C%20viu%20tamb%C3%A9m&pfm_pos=&pfm_type=vit_recommendation&DCSext.recom=RR_item_page.rr1-ClickEV&nm_origem=rec_item_page.rr1-ClickEV&nm_ranking_rec=1&voltagem=BIVOLT",
+      "quantidade": 1,
+      "usuario": "marcusviniciusmatarazzo@gmail.com",
+      "id": 16,
+      "Usuario": 2
+    },
+    {
+      "title": "Tablet Samsung Galaxy Tab A7 10,4” Wi-Fi 64GB - Android Octa-Core Câm. 8MP + Selfie 5MP",
+      "price": 1396,
+      "imageUrl": "https://a-static.mlcdn.com.br/618x463/tablet-samsung-galaxy-tab-a7-104-wi-fi-64gb-android-octa-core-cam-8mp-selfie-5mp/magazineluiza/226924100/1674465670c03557d1f1c64353570345.jpg",
+      "url": "https://www.magazineluiza.com.br/tablet-samsung-galaxy-tab-a7-104-wi-fi-64gb-android-octa-core-cam-8mp-selfie-5mp/p/226924100/tb/sams/?&force=1&seller_id=magazineluiza&&utm_source=google&utm_medium=pla&utm_campaign=&partner_id=58375&gclid=CjwKCAiAyc2BBhAaEiwA44-wW7PSFXkyX7WZM-sMprpUTIBiNEMJFIvW7kvb2l0hx6eKU9_UOEWfQBoC9qIQAvD_BwE",
+      "quantidade": 1,
+      "usuario": "mail@gmail.com",
+      "id": 19,
+      "categoria": "Eletrônicos",
+      "Usuario": 2
+    }
+  ]
+}
