@@ -1,4 +1,15 @@
 # site-de-vendas-back
 
-## Db cards 
+## db cards 
+  yarn start
+  
+  
+## db products
+  yarn start
+  
+  
+## db users
+  yarn start
+  
+  
   
